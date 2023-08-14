@@ -10,7 +10,7 @@ export class AppComponent {
   title = 'MojaStrona';
 
   constructor(private translate: TranslateService) {
-    translate.setDefaultLang('en');
+    translate.setDefaultLang('de');
     translate.use(translate.getBrowserLang());
   }
 }
