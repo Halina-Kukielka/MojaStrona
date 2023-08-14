@@ -1,0 +1,17 @@
+{
+  "header": {
+    "home": "Home",
+    "myWorks": "My works",
+    "contact": "Contact"
+  },
+
+  "myWorks": {
+    "myWorks": "My works"
+  },
+  "contact": {
+    "contactMe": "Contact me",
+    "email": " E-mail:",
+    "emailAddress": "halina@kukielka.net",
+    "phone": "Phone number: +49 163 377 9667"
+  }
+}
