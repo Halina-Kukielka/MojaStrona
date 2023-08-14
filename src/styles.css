@@ -1,1 +1,46 @@
-/* You can add global styles to this file, and also import other style files */
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+html {
+    font-family: "Apple SD Gothic Neo";
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    padding: 70px;
+}
+
+.imageStart {
+    flex: 1;
+    padding-left: 50px;
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 30%;
+}
+
+.text {
+    flex: 1;
+    padding-left: 50px;
+}
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .imageStart,
+    .text {
+        flex: none;
+        width: 100%;
+        margin: 10px 0;
+    }
+}
