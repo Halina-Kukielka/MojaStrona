@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    padding: 70px;
+}
+
+.imageStart {
+    flex: 1;
+    padding-left: 50px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    border-radius: 30%;
+}
+
+.text {
+    flex: 1;
+}
