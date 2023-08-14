@@ -1,8 +1,13 @@
 {
   "header": {
-    "home": "Home",
+    "home": "About me",
     "myWorks": "My works",
     "contact": "Contact"
+  },
+
+  "home": {
+    "welcome": "Welcome!",
+    "welcomeText": "Jakis tekst"
   },
 
   "myWorks": {
