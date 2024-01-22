@@ -6,10 +6,13 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { StartComponent } from './start/start.component';
 import { ContactComponent } from './contact/contact.component';
-import { WorksComponent } from './works/works.component';
 import {TranslateLoader, TranslateModule} from '@ngx-translate/core';
 import {TranslateHttpLoader} from '@ngx-translate/http-loader';
 import {HttpClient, HttpClientModule} from "@angular/common/http";
+import { AboutComponent } from './about/about.component';
+import { SoftwareStackComponent } from './software-stack/software-stack.component';
+import { FooterComponent } from './footer/footer.component';
+import {WorksModule} from "./works/works.module";
 
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http, './assets/i18n/', '.json');
@@ -21,7 +24,9 @@ export function HttpLoaderFactory(http: HttpClient) {
     HeaderComponent,
     StartComponent,
     ContactComponent,
-    WorksComponent
+    AboutComponent,
+    SoftwareStackComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
@@ -34,7 +39,8 @@ export function HttpLoaderFactory(http: HttpClient) {
         deps: [HttpClient]
       }
     }),
-    TranslateModule
+    TranslateModule,
+    WorksModule
   ],
   providers: [],
   bootstrap: [AppComponent]

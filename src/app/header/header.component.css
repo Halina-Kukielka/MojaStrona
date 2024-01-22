@@ -1,25 +1,24 @@
 .navbar {
     align-items: center;
-    text-align: right;
+    text-align: center;
     padding: 15px;
-    width: 100%;
-    margin: 0;
-    background: rgb(249, 238, 70);
-    background: linear-gradient(90deg, rgba(249, 238, 70, 1) 0%, rgba(182, 182, 182, 1) 77%);
+    border-bottom: solid 2px #FFA07A;
+    background-color: white;
 }
 
 a {
     color: black;
     text-decoration: none;
     font-size: 18px;
+    font-weight: bold;
 }
 
 a:hover {
-    color: #F9EE46FF;
+    color: #FFA07A;
 }
 
 .menu li.active a {
-    color: #F9EE46FF;
+    color: #FFA07A;
 }
 
 li {

@@ -1,15 +1,20 @@
 {
   "header": {
-    "home": "About me",
+    "home": "Start",
+    "softwareStack": "Software-Stack",
+    "about": "About me",
     "myWorks": "My works",
     "contact": "Contact"
   },
 
   "home": {
-    "welcome": "Hello and welcome",
-    "welcomeText": "My name is Halina, and I'm based in the enchanting region of Taunus. I'm a multilingual individual, fluent in Polish, English, and German, and I proudly hold dual citizenship in Poland and Germany.\n\nLet's start by diving into my educational journey. I graduated from high school with a strong emphasis on mathematics and extended English studies. Among the subjects that truly captured my interest were mathematics, computer science, and the captivating world of foreign languages.\n\nFollowing my high school graduation, I embarked on an exciting path. I embarked on engineering studies, immersing myself in the realm of problem-solving and innovation. With dedication and hard work, I successfully completed my engineering studies, which paved the way for my pursuit of a master's degree in food technology and human nutrition. This educational journey provided me with a solid foundation in understanding the intricate relationship between technology and the nourishment of both body and soul.\n\nPost-graduation, I had the privilege of joining the laboratory team at one of the most esteemed food research companies. Here, I've been fortunate to contribute to groundbreaking projects that are shaping the future of food science.\n\nOutside of my professional pursuits, I find joy in culinary creations. Cooking has become a delightful outlet for me, allowing me to experiment with flavors and indulge in the art of nourishing both body and mind. Additionally, the picturesque landscapes of the Taunus and Rhaingau regions have inspired me to explore the beauty of nature through cycling adventures. There's something truly liberating about exploring the world on two wheels.\n\nIn the realm of hobbies, I stumbled upon a passion that ignited my creative spirit—programming. For several years now, I've been diving into the realms of Angular and Java Spring Boot, crafting applications that bridge the gap between imagination and functionality.\n\nI invite you to explore my website, where you'll find a glimpse into my experiences, interests, and aspirations. Thank you for visiting, and I hope my journey resonates with you in some way. Feel free to reach out if you'd like to connect or learn more about my endeavors.\n\nWarmest regards, Halina"
+    "header": "Hello and welcome",
+    "text": "dodac krotki text o stronie"
   },
-
+  "about": {
+    "header": "About me...",
+    "text":"I am 35 years old and have been living in Germany for almost 10 years. My previous professional path led me to research food for children, medical food, and dietary supplements in a laboratory. After almost 10 years in this field, I made the decision to change my career direction.\nInspired by the encouragement of my husband, who is a programmer, I decided to try my hand at this field as well. I started completely from scratch, learning HTML, CSS, and Angular. I wanted to combine this acquired knowledge with another passion of mine, which is cooking (and eating). As a result, I created my own recipe website. For me, this is not just a new career path but also a way to share my love for cooking with others around the world."
+  },
   "myWorks": {
     "myWorks": "My works"
   },
@@ -18,5 +23,13 @@
     "email": " E-mail:",
     "emailAddress": "halina@kukielka.net",
     "phone": "Phone number: +49 163 377 9667"
+  },
+  "footer": {
+    "imprint": "Imprint",
+    "text1": "Responsible for the content according to § 55 Abs. 2 RStV:",
+    "text2": "Disclaimer:",
+    "text3": "Despite careful content control, we assume no liability for the content of external links. The operators of the linked pages are solely responsible for their content.",
+    "text4": "Copyright:",
+    "text5": "The content and works created by the site operator on these pages are subject to German copyright law. The reproduction, editing, distribution, and any kind of exploitation beyond the limits of copyright require the written consent of the respective author or creator. Downloads and copies of these pages are only permitted for private, non-commercial use."
   }
 }

@@ -1,12 +1,18 @@
 {
   "header": {
-    "home": "Über mich",
+    "home": "Start",
+    "softwareStack": "Software-Stack",
+    "about": "Über mich",
     "myWorks": "Meine Projekte",
     "contact": "Kontakt"
   },
   "home": {
-    "welcome": "Herzlich willkommen auf meiner Webseite!",
-    "welcomeText": "Mein Name ist Halina, und ich wohne im Taunus. Ich beherrsche die Sprachen Polnisch, Englisch und Deutsch und bin stolzer Staatsbürger zweier Länder: Polen und Deutschland.\n\nLassen Sie mich zu Beginn einen Blick auf meine Ausbildung werfen. Mein Abitur habe ich mit einem Schwerpunkt auf Mathematik und erweitertem Englisch absolviert. Dabei haben mich insbesondere Mathematik, Informatik und das Erlernen von Fremdsprachen fasziniert.\n\nDirekt nach meinem Abitur habe ich eine spannende Reise angetreten. Ich habe ein Ingenieurstudium begonnen, das mich tief in die Welt des Problemlösens und der Innovation geführt hat. Mit viel Einsatz habe ich mein Ingenieurstudium erfolgreich abgeschlossen und den Weg für mein Masterstudium in Lebensmitteltechnologie und Humanernährung geebnet. Dieser Bildungsweg hat mir eine solide Grundlage verschafft, um die komplexe Beziehung zwischen Technologie und der Ernährung von Körper und Geist zu verstehen.\n\nNach meinem Abschluss hatte ich das Privileg, dem Labor-Team eines der renommiertesten Unternehmen im Bereich Lebensmittelforschung beizutreten. Hier konnte ich zu wegweisenden Projekten beitragen, die die Zukunft der Lebensmittelwissenschaft gestalten.\n\nAbseits meiner beruflichen Tätigkeit finde ich Freude in kulinarischen Kreationen. Kochen ist für mich zu einer wunderbaren Ausdrucksform geworden, die es mir ermöglicht, mit Geschmäckern zu experimentieren und die Kunst der Nahrungszubereitung für Körper und Geist zu genießen. Zusätzlich haben mich die malerischen Landschaften des Taunus und des Rheingaus dazu inspiriert, die Schönheit der Natur bei Radtouren zu erkunden. Es gibt etwas unglaublich Befreiendes daran, die Welt auf zwei Rädern zu erkunden.\n\nIn der Welt der Hobbys habe ich eine Leidenschaft entdeckt, die meinen kreativen Geist entfacht hat – das Programmieren. Seit mehreren Jahren tauche ich in die Bereiche Angular und Java Spring Boot ein und entwickle Anwendungen, die die Kluft zwischen Vorstellung und Funktionalität überbrücken.\n\nIch lade Sie ein, meine Webseite zu erkunden, auf der Sie Einblicke in meine Erfahrungen, Interessen und Bestrebungen erhalten. Vielen Dank für Ihren Besuch, und ich hoffe, dass meine Reise auf irgendeine Weise Resonanz bei Ihnen findet. Zögern Sie nicht, sich bei Fragen oder um mehr über meine Aktivitäten zu erfahren, mit mir in Verbindung zu setzen.\n\nHerzliche Grüße,"
+    "header": "Herzlich willkommen auf meiner Webseite!",
+    "text": "dodac krotki text o stronie"
+  },
+  "about": {
+    "header": "Über mich...",
+    "text": "Ich bin 35 Jahre alt und lebe seit fast 10 Jahren in Deutschland. Mein bisheriger beruflicher Weg führte mich in die Forschung von Lebensmitteln für Kinder, medizinischen Lebensmitteln und Nahrungsergänzungsmitteln in einem Labor. Nach fast 10 Jahren in diesem Bereich habe ich die Entscheidung getroffen, meine berufliche Richtung zu ändern.\nInspiriert durch die Ermutigung meines Mannes, der Programmierer ist, habe ich beschlossen, auch diesen Bereich auszuprobieren. Ich habe ganz von vorne angefangen und HTML, CSS und Angular gelernt. Mein Ziel war es, dieses Wissen mit einer weiteren Leidenschaft von mir zu verbinden, dem Kochen (und Essen). Als Ergebnis habe ich meine eigene Rezept-Website erstellt. Für mich ist dies nicht nur ein neuer beruflicher Weg, sondern auch eine Möglichkeit, meine Liebe zum Kochen mit anderen auf der ganzen Welt zu teilen.\n"
   },
   "myWorks": {
     "myWorks": "Meine Projekte"
@@ -16,5 +22,13 @@
     "email": " E-mail:",
     "emailAddress": "halina@kukielka.net",
     "phone": "Telefon Nummer: +49 163 377 9667"
+  },
+  "footer": {
+    "imprint": "Impressum",
+    "text1": "Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:",
+    "text2": "Haftungshinweis:",
+    "text3": "Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.",
+    "text4": "Urheberrecht:",
+    "text5": "Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet."
   }
 }

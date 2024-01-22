@@ -1,35 +1,53 @@
 @import "~@fortawesome/fontawesome-free/css/all.css";
 
-html {
-    font-family: "Apple SD Gothic Neo";
-    margin: 0;
+@font-face {
+    font-family: 'Arima-Light';
+    src: url('assets/fonts/Arima-Light.ttf');
 }
 
 body {
+    font-family: Arima-Light, Arial, sans-serif;
+    background-color: #FFA07A;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
     margin: 0;
+}
+.app-component {
+    width: 100%;
+}
+
+.content-container {
+    width: 100%;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 .container {
     display: flex;
-    padding: 70px;
+    flex: 1;
+    background-color: white;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
 }
 
 .imageStart {
     flex: 1;
-    padding-left: 50px;
 }
 
 img {
     width: 100%;
     max-width: 400px;
     height: auto;
-    border-radius: 30%;
 }
 
 .text {
     flex: 1;
-    padding-left: 50px;
 }
+
 
 @media (max-width: 768px) {
     .container {
