@@ -1,0 +1,20 @@
+{
+  "header": {
+    "home": "Über mich",
+    "myWorks": "Meine Projekte",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "welcome": "Wilkommen!",
+    "welcomeText": "Jakis tekst"
+  },
+  "myWorks": {
+    "myWorks": "Meine Projekte"
+  },
+  "contact": {
+    "contactMe": "Kontakt:",
+    "email": " E-mail:",
+    "emailAddress": "halina@kukielka.net",
+    "phone": "Telefon Nummer: +49 163 377 9667"
+  }
+}
