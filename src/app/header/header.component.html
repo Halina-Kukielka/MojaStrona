@@ -1,11 +1,32 @@
-<nav class="navbar">
+<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-        <ul class="menu">
-            <li routerLinkActive="active"><a routerLink="/start">{{ 'header.home'|translate }}</a></li>
-            <li routerLinkActive="active"><a routerLink="/about">{{ 'header.about'|translate }}</a></li>
-            <li routerLinkActive="active"><a routerLink="/works">{{ 'header.myWorks'|translate }}</a></li>
-            <li routerLinkActive="active"><a routerLink="/software_stack">{{ 'header.softwareStack'|translate }}</a></li>
-            <li routerLinkActive="active"><a routerLink="/contact">{{ 'header.contact'|translate }}</a></li>
-        </ul>
+        <button class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#navbar1"
+                aria-controls="navbar1"
+                aria-expanded="false"
+                aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar1">
+            <ul class="navbar-nav">
+                <li class="nav-item" routerLinkActive="active">
+                    <a class="nav-link" routerLink="/start">{{ 'header.home'|translate }}</a>
+                </li>
+                <li class="nav-item" routerLinkActive="active">
+                    <a class="nav-link" routerLink="/about">{{ 'header.about'|translate }}</a>
+                </li>
+                <li class="nav-item" routerLinkActive="active">
+                    <a class="nav-link" routerLink="/works">{{ 'header.myWorks'|translate }}</a>
+                </li>
+                <li class="nav-item" routerLinkActive="active">
+                    <a class="nav-link" routerLink="/software_stack">{{ 'header.softwareStack'|translate }}</a>
+                </li>
+                <li class="nav-item" routerLinkActive="active">
+                    <a class="nav-link" routerLink="/contact">{{ 'header.contact'|translate }}</a>
+                </li>
+            </ul>
+        </div>
     </div>
 </nav>

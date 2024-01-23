@@ -10,28 +10,31 @@ body {
     background-color: #FFA07A;
     display: flex;
     flex-direction: column;
-    width: 100%;
     margin: 0;
-}
-.app-component {
     width: 100%;
+}
+
+h2 {
+    font-weight: bold;
 }
 
 .content-container {
-    width: 100%;
     display: flex;
     flex: 1;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 85vh;
+    width: 100%;
+    margin: 0;
 }
 
-.container {
+.content {
     display: flex;
     flex: 1;
     background-color: white;
     padding-top: 40px;
-    padding-right: 40px;
-    padding-left: 40px;
+    padding-right: 5%;
+    padding-left: 5%;
+    box-sizing: border-box;
 }
 
 .imageStart {
@@ -40,25 +43,41 @@ body {
 
 img {
     width: 100%;
-    max-width: 400px;
+    max-width: 450px;
     height: auto;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .text {
     flex: 1;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 
 @media (max-width: 768px) {
-    .container {
+    .content {
         flex-direction: column;
         align-items: center;
     }
 
     .imageStart,
-    .text {
-        flex: none;
+    .text{
+        flex: 1;
         width: 100%;
-        margin: 10px 0;
+        margin-top: 20px;
+    }
+
+    .imageStart {
+        max-height: 400px;
+        width: auto;
+    }
+
+    .portrait {
+        max-height: 400px;
+        width: auto;
     }
 }
+

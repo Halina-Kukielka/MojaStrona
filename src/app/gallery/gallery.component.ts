@@ -6,7 +6,7 @@ import { Component} from '@angular/core';
   styleUrls: ['./gallery.component.css']
 })
 export class GalleryComponent{
-  images: string[] = ['assets/images/1.jpeg', 'assets/images/2.jpeg', 'assets/images/3.jpeg'];
+  images: string[] = ['assets/images/1.png', 'assets/images/2.png', 'assets/images/3.png', 'assets/images/4.png'];
   selectedIndex = 0;
 
   nextImage() {

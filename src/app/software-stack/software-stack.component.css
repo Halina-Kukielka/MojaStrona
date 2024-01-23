@@ -1,0 +1,15 @@
+.software-stack {
+    background-color: white;
+    padding-top: 40px;
+    padding-right: 5%;
+    padding-left: 5%;
+    min-height: 80vh;
+}
+
+.fa-li {
+    margin-left: 1px;
+}
+
+ul {
+    padding: 20px;
+}

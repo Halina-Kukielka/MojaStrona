@@ -23,6 +23,14 @@
     "emailAddress": "halina@kukielka.net",
     "phone": "Telefon Nummer: +49 163 377 9667"
   },
+  "software-stack": {
+    "title": "Software Stack",
+    "stack1": "Angular",
+    "stack2": "Java Script",
+    "stack3": "HTML",
+    "stack4": "CSS",
+    "stack5": "Type Script"
+  },
   "footer": {
     "imprint": "Impressum",
     "text1": "Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:",

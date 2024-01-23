@@ -9,3 +9,25 @@
     color: #FFA07A;
 }
 
+.imageContact {
+    flex: 1;
+    max-width: 500px;
+}
+
+.contactText {
+    flex: 1;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+@media (max-width: 768px) {
+    .contactText{
+        flex: 1;
+        text-align: center;
+    }
+
+    .imageContact {
+        max-height: 400px;
+        width: auto;
+    }
+}
