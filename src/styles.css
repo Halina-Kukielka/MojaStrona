@@ -39,6 +39,7 @@ h2 {
 
 .imageStart {
     flex: 1;
+    margin-bottom: 20px;
 }
 
 img {
