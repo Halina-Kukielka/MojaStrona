@@ -19,12 +19,20 @@
     "phone": "Telefonnummer: +49 163 377 9667"
   },
   "software-stack": {
+    "services": "Meine Leistungen",
+    "serv1": "Erstellen von Webanwendungen mit Angular, TypeScript, HTML, CSS",
+    "serv2": "Erstellen von Serveranwendungen mit Spring Boot",
+    "serv3": "Anwendungstests",
     "title": "Software Stack",
     "stack1": "Angular",
     "stack2": "Java Script",
     "stack3": "HTML",
     "stack4": "CSS",
-    "stack5": "Type Script"
+    "stack5": "Type Script",
+    "stack6": "Spring Boot",
+    "stack7": "Git",
+    "stack8": "Java",
+    "stack9": "Jenkins"
   },
   "footer": {
     "imprint": "Impressum",

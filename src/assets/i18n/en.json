@@ -19,12 +19,20 @@
     "phone": "Phone number: +49 163 377 9667"
   },
   "software-stack": {
+    "services": "My services",
+    "serv1": "Building Angular web applications using TypeScript, HTML, CSS",
+    "serv2": "Building server applications using Spring Boot",
+    "serv3": "Application testing",
     "title": "Software Stack",
     "stack1": "Angular",
     "stack2": "Java Script",
     "stack3": "HTML",
     "stack4": "CSS",
-    "stack5": "Type Script"
+    "stack5": "Type Script",
+    "stack6": "Spring Boot",
+    "stack7": "Git",
+    "stack8": "Java",
+    "stack9": "Jenkins"
   },
   "footer": {
     "imprint": "Imprint",
