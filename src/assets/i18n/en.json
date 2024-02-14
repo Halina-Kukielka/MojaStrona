@@ -1,15 +1,9 @@
 {
   "header": {
-    "home": "Start",
     "softwareStack": "Software-Stack",
     "about": "About me",
     "myWorks": "My works",
     "contact": "Contact"
-  },
-
-  "home": {
-    "header": "Hello and welcome",
-    "text": "dodac krotki text o stronie"
   },
   "about": {
     "header": "About me...",
@@ -34,9 +28,6 @@
   },
   "footer": {
     "imprint": "Imprint",
-    "text1": "Responsible for the content according to § 55 Abs. 2 RStV:",
-    "text2": "Disclaimer:",
-    "text3": "Despite careful content control, we assume no liability for the content of external links. The operators of the linked pages are solely responsible for their content.",
     "text4": "Copyright:",
     "text5": "The content and works created by the site operator on these pages are subject to German copyright law. The reproduction, editing, distribution, and any kind of exploitation beyond the limits of copyright require the written consent of the respective author or creator. Downloads and copies of these pages are only permitted for private, non-commercial use."
   }
