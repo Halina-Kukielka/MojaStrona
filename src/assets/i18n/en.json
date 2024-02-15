@@ -16,7 +16,8 @@
     "contactMe": "Contact me",
     "email": " E-mail:",
     "emailAddress": "halina@kukielka.net",
-    "phone": "Phone number: +49 163 377 9667"
+    "phone": "Phone number:",
+    "number": "+49 163 377 9667"
   },
   "software-stack": {
     "services": "My services",

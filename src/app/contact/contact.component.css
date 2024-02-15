@@ -1,4 +1,5 @@
-.emailLink {
+.emailLink,
+.call {
     text-decoration: none;
     color: black;
     position: relative;
@@ -9,6 +10,10 @@
     color: #FFA07A;
 }
 
+.call:hover {
+    text-decoration: underline;
+    color: #FFA07A;
+}
 
 .contactText {
     flex: 1;
