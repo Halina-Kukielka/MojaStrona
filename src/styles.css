@@ -61,15 +61,15 @@ img {
 
 
 .portrait {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
     -webkit-transition: .8s ease-in-out;
     transition: .8s ease-in-out;
 }
 
 .portrait:hover {
-    -webkit-filter: grayscale(0);
-    filter: grayscale(0);
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
 
 @media (max-width: 768px) {
