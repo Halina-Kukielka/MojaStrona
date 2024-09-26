@@ -9,6 +9,12 @@ export class HeaderComponent implements OnInit {
 
   constructor() { }
 
+  hideNavbar(navbar: any) {
+    if (navbar && navbar.classList.contains('show')) {
+      navbar.classList.remove('show');
+    }
+  }
+
   ngOnInit(): void {
   }
 

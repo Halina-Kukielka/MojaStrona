@@ -9,19 +9,19 @@
                 aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbar1">
+        <div class="collapse navbar-collapse" id="navbar1" #navbar>
             <ul class="navbar-nav">
                 <li class="nav-item" routerLinkActive="active">
-                    <a class="nav-link" routerLink="/about">{{ 'header.about'|translate }}</a>
+                    <a class="nav-link" routerLink="/about" (click)="hideNavbar(navbar)">{{ 'header.about'|translate }}</a>
                 </li>
                 <li class="nav-item" routerLinkActive="active">
-                    <a class="nav-link" routerLink="/works">{{ 'header.myWorks'|translate }}</a>
+                    <a class="nav-link" routerLink="/works" (click)="hideNavbar(navbar)">{{ 'header.myWorks'|translate }}</a>
                 </li>
                 <li class="nav-item" routerLinkActive="active">
-                    <a class="nav-link" routerLink="/software_stack">{{ 'header.softwareStack'|translate }}</a>
+                    <a class="nav-link" routerLink="/software_stack" (click)="hideNavbar(navbar)">{{ 'header.softwareStack'|translate }}</a>
                 </li>
                 <li class="nav-item" routerLinkActive="active">
-                    <a class="nav-link" routerLink="/contact">{{ 'header.contact'|translate }}</a>
+                    <a class="nav-link" routerLink="/contact" (click)="hideNavbar(navbar)">{{ 'header.contact'|translate }}</a>
                 </li>
             </ul>
         </div>
