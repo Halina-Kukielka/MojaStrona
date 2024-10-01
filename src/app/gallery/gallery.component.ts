@@ -6,8 +6,26 @@ import { Component} from '@angular/core';
   styleUrls: ['./gallery.component.css']
 })
 export class GalleryComponent{
-  images: string[] = ['assets/images/1.png', 'assets/images/2.png', 'assets/images/3.png', 'assets/images/4.png'];
+  images: string[] = [
+    'assets/images/001.png',
+    'assets/images/002.png',
+    'assets/images/008.png',
+    'assets/images/003.png',
+    'assets/images/004.png',
+    'assets/images/005.png',
+    'assets/images/006.png',
+    'assets/images/007.png',
+    'assets/images/macbook.png'
+  ];
   selectedIndex = 0;
+  projectNames: string[] = [
+    'Misercook.com'
+  ];
+
+  projectDescriptions: string[] = [
+    'PROJECT_DESCRIPTION'
+  ];
+
 
   nextImage() {
     this.selectedIndex = (this.selectedIndex + 1) % this.images.length;

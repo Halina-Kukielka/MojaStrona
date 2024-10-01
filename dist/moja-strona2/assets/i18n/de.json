@@ -1,12 +1,13 @@
 {
   "header": {
-    "home": "Über mich",
+    "softwareStack": "Software-Stack",
+    "about": "Über mich",
     "myWorks": "Meine Projekte",
     "contact": "Kontakt"
   },
-  "home": {
-    "welcome": "Wilkommen!",
-    "welcomeText": "Jakis tekst"
+  "about": {
+    "header": "Über mich...",
+    "text": "Ich bin 36 Jahre alt und lebe seit über 10 Jahren in Deutschland. Mein bisheriger beruflicher Weg führte mich in die Forschung zu Lebensmitteln für Kinder, medizinischen Lebensmitteln und Nahrungsergänzungsmitteln in einem Labor. Nach 10 Jahren in diesem Bereich habe ich die Entscheidung getroffen, meine berufliche Richtung zu ändern.\n\nInspiriert durch die Ermutigung meines Mannes, der Programmierer ist, habe ich beschlossen, auch diesen Bereich auszuprobieren. Ich habe ganz von vorne angefangen und HTML, CSS und Angular gelernt. Mein Ziel war es, dieses Wissen mit einer weiteren Leidenschaft von mir zu verbinden: dem Kochen (und Essen). Als Ergebnis habe ich meine eigene Rezept-Website erstellt. Für mich ist dies nicht nur ein neuer beruflicher Weg, sondern auch eine Möglichkeit, meine Liebe zum Kochen mit Menschen auf der ganzen Welt zu teilen."
   },
   "myWorks": {
     "myWorks": "Meine Projekte"
@@ -15,6 +16,28 @@
     "contactMe": "Kontakt:",
     "email": " E-mail:",
     "emailAddress": "halina@kukielka.net",
-    "phone": "Telefon Nummer: +49 163 377 9667"
+    "phone": "Telefonnummer:",
+    "number": "+49 163 377 9667"
+  },
+  "software-stack": {
+    "services": "Meine Leistungen",
+    "serv1": "Erstellen von Webanwendungen mit Angular, TypeScript, HTML, CSS",
+    "serv2": "Erstellen von Serveranwendungen mit Spring Boot",
+    "serv3": "Anwendungstests",
+    "title": "Software Stack",
+    "stack1": "Angular",
+    "stack2": "Java Script",
+    "stack3": "HTML",
+    "stack4": "CSS",
+    "stack5": "Type Script",
+    "stack6": "Spring Boot",
+    "stack7": "Git",
+    "stack8": "Java",
+    "stack9": "Jenkins"
+  },
+  "footer": {
+    "imprint": "Impressum",
+    "text4": "Urheberrecht:",
+    "text5": "Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet."
   }
 }
