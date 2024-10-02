@@ -1,6 +1,19 @@
 {
-  "pr":{
-    "de": "Misercook.com is a recipe platform that offers easy-to-make, delicious, and budget-friendly dishes. The site aims to provide recipes that can be prepared quickly, using minimal ingredients. Users will find a variety of recipe categories that are ideal for people with busy schedules and for those looking to save money on groceries without compromising on quality and taste."
+  "project":{
+    "platform": "Misercook.com",
+    "desc1": "Misercook.com is a modern, responsive culinary platform designed with the convenience of users on various devices in mind. The site was built using technologies such as Angular, HTML5, CSS3, and TypeScript, ensuring smooth operation on both computers and mobile devices. Thanks to the use of responsive design based on media queries, the layout of the site automatically adapts to the screen resolution, providing optimal navigation and readability on phones, tablets, and laptops.",
+    "startPage": "Homepage",
+    "desc2": "The homepage of Misercook.com is clear and intuitive, with distinct sections. Users can quickly browse recently added recipes, explore their favorites, and check out the recipe of the day, which is highlighted daily.",
+    "recDetail": "Recipe detail",
+    "desc3": "The Recipe Detail view displays all the details of the selected recipe, including a photo of the dish, detailed instructions, and an ingredient list that can be easily added to a shopping list.",
+    "categories": "Categories",
+    "desc4": "Recipes have been divided into various categories to facilitate user searching and browsing. This allows users to quickly find interesting dishes in categories such as appetizers, meals for kids, desserts, or soups.",
+    "createRec": "Create recipe",
+    "desc5": "After logging into the website, there is an ability to add new recipes, create custom categories, and share cooking tips.",
+    "shoppingList": "Shopping List",
+    "desc6": "The shopping list is designed in a way that allows users to add products manually, but there is also an option to directly add all ingredients from a recipe.",
+    "portaladmin": "Portal Admin",
+    "desc7": "Logging into the portal provides access to many additional features, such as editing, deleting, or adding recipes, categories, and cooking tips"
   },
   "header": {
     "softwareStack": "Software-Stack",

@@ -1,6 +1,19 @@
 {
-  "pr": {
-    "de": "Misercook.com ist eine Rezeptplattform, die einfache, schmackhafte und preiswerte Gerichte anbietet. Die Seite zielt darauf ab, Rezepte bereitzustellen, die schnell zubereitet werden können, mit minimalen Zutaten. Nutzer finden hier eine Vielzahl von Rezeptkategorien, die ideal für Menschen mit einem vollen Terminkalender und für diejenigen sind, die beim Lebensmitteleinkauf sparen möchten, ohne auf Qualität und Geschmack verzichten zu müssen."
+  "project": {
+    "platform": "Misercook.com",
+    "desc1": "Misercook.com ist eine moderne, responsive kulinarische Plattform, die mit Blick auf den Komfort der Nutzer auf verschiedenen Geräten entworfen wurde. Die Seite wurde mit Technologien wie Angular, HTML5, CSS3 und TypeScript erstellt und sorgt für eine reibungslose Funktion auf Computern und mobilen Geräten. Dank des Einsatzes von Responsive Design, das auf Media Queries basiert, passt sich das Layout der Seite automatisch an die Bildschirmauflösung an und bietet optimale Navigation und Lesbarkeit auf Handys, Tablets und Laptops.",
+    "startPage": "Startseite",
+    "desc2": "Die Startseite von Misercook.com ist übersichtlich und intuitiv mit klaren Bereichen. Nutzer können schnell kürzlich hinzugefügte Rezepte durchstöbern, ihre Favoriten erkunden und das Rezept des Tages ansehen, das täglich hervorgehoben wird.",
+    "recDetail": "Rezeptdetails",
+    "desc3": "Im Recipe Detail-Ansicht werden alle Details zum ausgewählten Rezept angezeigt, darunter ein Foto des Gerichts, detaillierte Anweisungen und eine Zutatenliste, die leicht zur Einkaufsliste hinzugefügt werden kann.",
+    "categories": "Kategorien",
+    "desc4": "Die Rezepte wurden in verschiedene Kategorien unterteilt, um den Benutzern die Suche und das Durchsuchen zu erleichtern. Dadurch können Benutzer schnell interessante Gerichte in Kategorien wie Vorspeisen, Kindergerichte, Desserts oder Suppen finden.",
+    "createRec": "Rezept erstellen",
+    "desc5": "Nach dem Einloggen auf der Website besteht die Möglichkeit, neue Rezepte hinzuzufügen, eigene Kategorien zu erstellen und Kochtipps zu teilen.",
+    "shoppingList": "Einkaufsliste",
+    "desc6": "Die Einkaufsliste ist so gestaltet, dass Benutzer Produkte manuell hinzufügen können, aber es besteht auch die Möglichkeit, alle Zutaten aus einem Rezept direkt hinzuzufügen.",
+    "portaladmin": "Admin-Portal",
+    "desc7": "Das Einloggen in das Portal gewährt Zugang zu vielen weiteren Funktionen, wie dem Bearbeiten, Löschen oder Hinzufügen von Rezepten, Kategorien und Kochtipps"
   },
   "header": {
     "softwareStack": "Software-Stack",
