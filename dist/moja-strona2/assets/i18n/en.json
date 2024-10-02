@@ -1,4 +1,7 @@
 {
+  "pr":{
+    "de": "Misercook.com is a recipe platform that offers easy-to-make, delicious, and budget-friendly dishes. The site aims to provide recipes that can be prepared quickly, using minimal ingredients. Users will find a variety of recipe categories that are ideal for people with busy schedules and for those looking to save money on groceries without compromising on quality and taste."
+  },
   "header": {
     "softwareStack": "Software-Stack",
     "about": "About me",
@@ -7,7 +10,7 @@
   },
   "about": {
     "header": "About me...",
-    "text":"I'm 36 years old and have been living in Germany for over 10 years. My previous professional path led me to research food for children, medical food, and dietary supplements in a laboratory. After 10 years in this field, I made the decision to change my career direction.\n\nInspired by the encouragement of my husband, who is a programmer, I decided to try my hand in this field as well. I started completely from scratch, learning HTML, CSS, and Angular. I wanted to combine this new knowledge with another passion of mine—cooking (and eating). As a result, I created my own recipe website. For me, this is not just a new career path but also a way to share my love of cooking with others around the world."
+    "text":"I'm 36 years old and have been living in Germany for over 10 years. My previous professional path led me to research food for children, medical food, and dietary supplements in a laboratory. After 10 years in this field, I made the decision to change my career direction.\n\nInspired by the encouragement of my husband, who is a programmer, I decided to try my hand in this field as well. I started completely from scratch, learning HTML, CSS, and Angular. I wanted to combine this new knowledge with another passion of mine—cooking (and eating). As a result, I have created my own recipe platform - misercook.com. For me, this is not just a new career path but also a way to share my love of cooking with others around the world."
   },
   "myWorks": {
     "myWorks": "My works"

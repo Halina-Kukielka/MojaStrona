@@ -17,14 +17,15 @@ export class GalleryComponent{
     'assets/images/007.png',
     'assets/images/macbook.png'
   ];
-  selectedIndex = 0;
-  projectNames: string[] = [
-    'Misercook.com'
-  ];
 
-  projectDescriptions: string[] = [
-    'PROJECT_DESCRIPTION'
-  ];
+  selectedIndex = 0;
+ projectNames: string[] = [
+  'Misercook.com'
+ ];
+
+  //projectDescriptions: string[] = [
+ //   'myProjects.description_misercook'
+  //;
 
 
   nextImage() {

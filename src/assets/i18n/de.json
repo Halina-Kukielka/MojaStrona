@@ -1,4 +1,7 @@
 {
+  "pr": {
+    "de": "Misercook.com ist eine Rezeptplattform, die einfache, schmackhafte und preiswerte Gerichte anbietet. Die Seite zielt darauf ab, Rezepte bereitzustellen, die schnell zubereitet werden können, mit minimalen Zutaten. Nutzer finden hier eine Vielzahl von Rezeptkategorien, die ideal für Menschen mit einem vollen Terminkalender und für diejenigen sind, die beim Lebensmitteleinkauf sparen möchten, ohne auf Qualität und Geschmack verzichten zu müssen."
+  },
   "header": {
     "softwareStack": "Software-Stack",
     "about": "Über mich",
@@ -39,6 +42,5 @@
     "imprint": "Impressum",
     "text4": "Urheberrecht:",
     "text5": "Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet."
-  },
-  "PROJECT_DESCRIPTION": "Misercook.com ist eine Rezeptplattform, die einfache, schmackhafte und preiswerte Gerichte anbietet. Die Seite zielt darauf ab, Rezepte bereitzustellen, die schnell zubereitet werden können, mit minimalen Zutaten. Nutzer finden hier eine Vielzahl von Rezeptkategorien, die ideal für Menschen mit einem vollen Terminkalender und für diejenigen sind, die beim Lebensmitteleinkauf sparen möchten, ohne auf Qualität und Geschmack verzichten zu müssen."
+  }
 }

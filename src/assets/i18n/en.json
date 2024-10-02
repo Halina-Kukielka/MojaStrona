@@ -1,4 +1,7 @@
 {
+  "pr":{
+    "de": "Misercook.com is a recipe platform that offers easy-to-make, delicious, and budget-friendly dishes. The site aims to provide recipes that can be prepared quickly, using minimal ingredients. Users will find a variety of recipe categories that are ideal for people with busy schedules and for those looking to save money on groceries without compromising on quality and taste."
+  },
   "header": {
     "softwareStack": "Software-Stack",
     "about": "About me",
@@ -39,6 +42,5 @@
     "imprint": "Imprint",
     "text4": "Copyright:",
     "text5": "The content and works created by the site operator on these pages are subject to German copyright law. The reproduction, editing, distribution, and any kind of exploitation beyond the limits of copyright require the written consent of the respective author or creator. Downloads and copies of these pages are only permitted for private, non-commercial use."
-  },
-  "PROJECT_DESCRIPTION": "Misercook.com is a recipe platform that offers easy-to-make, delicious, and budget-friendly dishes. The site aims to provide recipes that can be prepared quickly, using minimal ingredients. Users will find a variety of recipe categories that are ideal for people with busy schedules and for those looking to save money on groceries without compromising on quality and taste."
+  }
 }
