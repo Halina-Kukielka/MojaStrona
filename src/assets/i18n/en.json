@@ -13,7 +13,11 @@
     "shoppingList": "Shopping List",
     "desc6": "The shopping list is designed in a way that allows users to add products manually, but there is also an option to directly add all ingredients from a recipe.",
     "portaladmin": "Portal Admin",
-    "desc7": "Logging into the portal provides access to many additional features, such as editing, deleting, or adding recipes, categories, and cooking tips"
+    "desc7": "Logging into the portal provides access to many additional features, such as editing, deleting, or adding recipes, categories, and cooking tips",
+    "chat": "Misercook AI assistant",
+    "desc8": "AI-based chat that assists users by answering simple questions and providing support quickly and conveniently.",
+    "weatherApp": "Weather App",
+    "desc9": "A simple and minimalist weather application built with Angular 18, TypeScript, HTML, and CSS. The design focuses on clarity and responsiveness, providing a clean and user-friendly interface."
   },
   "header": {
     "softwareStack": "Software-Stack",
@@ -23,7 +27,7 @@
   },
   "about": {
     "header": "About me...",
-    "text":"I'm 36 years old and have been living in Germany for over 10 years. My previous professional path led me to research food for children, medical food, and dietary supplements in a laboratory. After 10 years in this field, I made the decision to change my career direction.\n\nInspired by the encouragement of my husband, who is a programmer, I decided to try my hand in this field as well. I started completely from scratch, learning HTML, CSS, and Angular. I wanted to combine this new knowledge with another passion of mine—cooking (and eating). As a result, I have created my own recipe platform - misercook.com. For me, this is not just a new career path but also a way to share my love of cooking with others around the world."
+    "text": "I am 36 years old and have been living in Germany for over 10 years. My professional journey led me to research food for children, medical foods, and dietary supplements in a laboratory. After 10 years in this field, I decided to change my career direction. Inspired by the idea of developing large applications that excite people and are quickly accessible worldwide, I chose to explore the field of programming. I learned HTML, CSS, TypeScript, and Angular from scratch. As a result, I created my own recipe platform, misercook.com. This new career path allows me to leverage my programming skills to develop innovative solutions and have a positive impact on the lives of others."
   },
   "myWorks": {
     "myWorks": "My works"
@@ -37,9 +41,11 @@
   },
   "software-stack": {
     "services": "My services",
-    "serv1": "Building Angular web applications using TypeScript, HTML, CSS",
-    "serv2": "Building server applications using Spring Boot",
+    "serv1": "Creating web applications using Angular, TypeScript, HTML, and CSS",
+    "serv2": "Developing server applications in Java using the Spring Boot framework",
     "serv3": "Application testing",
+    "serv4": "Deployment of Angular web applications on Linux servers",
+    "serv5": "Creating layouts in GIMP.",
     "title": "Software Stack",
     "stack1": "Angular",
     "stack2": "Java Script",
@@ -49,7 +55,8 @@
     "stack6": "Spring Boot",
     "stack7": "Git",
     "stack8": "Java",
-    "stack9": "Jenkins"
+    "stack9": "Jenkins",
+    "stack10": "PostgreSQL"
   },
   "footer": {
     "imprint": "Imprint",

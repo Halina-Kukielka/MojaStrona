@@ -13,7 +13,9 @@
     "shoppingList": "Einkaufsliste",
     "desc6": "Die Einkaufsliste ist so gestaltet, dass Benutzer Produkte manuell hinzufügen können, aber es besteht auch die Möglichkeit, alle Zutaten aus einem Rezept direkt hinzuzufügen.",
     "portaladmin": "Admin-Portal",
-    "desc7": "Das Einloggen in das Portal gewährt Zugang zu vielen weiteren Funktionen, wie dem Bearbeiten, Löschen oder Hinzufügen von Rezepten, Kategorien und Kochtipps"
+    "desc7": "Das Einloggen in das Portal gewährt Zugang zu vielen weiteren Funktionen, wie dem Bearbeiten, Löschen oder Hinzufügen von Rezepten, Kategorien und Kochtipps",
+    "chat": "Misercook AI assistant",
+    "desc8": "KI-basierter Chat, der Nutzern hilft, indem er einfache Fragen beantwortet und schnell sowie bequem Unterstützung bietet."
   },
   "header": {
     "softwareStack": "Software-Stack",
@@ -23,7 +25,7 @@
   },
   "about": {
     "header": "Über mich...",
-    "text": "Ich bin 36 Jahre alt und lebe seit über 10 Jahren in Deutschland. Mein bisheriger beruflicher Weg führte mich in die Forschung zu Lebensmitteln für Kinder, medizinischen Lebensmitteln und Nahrungsergänzungsmitteln in einem Labor. Nach 10 Jahren in diesem Bereich habe ich die Entscheidung getroffen, meine berufliche Richtung zu ändern.\n\nInspiriert durch die Ermutigung meines Mannes, der Programmierer ist, habe ich beschlossen, auch diesen Bereich auszuprobieren. Ich habe ganz von vorne angefangen und HTML, CSS und Angular gelernt. Mein Ziel war es, dieses Wissen mit einer weiteren Leidenschaft von mir zu verbinden: dem Kochen (und Essen). Als Ergebnis habe ich meine eigene Rezept Platform erstellt - misercook.com. Für mich ist dies nicht nur ein neuer beruflicher Weg, sondern auch eine Möglichkeit, meine Liebe zum Kochen mit Menschen auf der ganzen Welt zu teilen."
+    "text": "Ich bin 36 Jahre alt und lebe seit über 10 Jahren in Deutschland. Mein beruflicher Weg führte mich in die Forschung zu Lebensmitteln für Kinder, medizinischen Lebensmitteln und Nahrungsergänzungsmitteln in einem Labor. Nach 10 Jahren in diesem Bereich habe ich beschlossen, meine berufliche Richtung zu ändern. Inspiriert von der Idee, große Anwendungen zu entwickeln, die Menschen begeistern und weltweit schnell erreichbar sind, habe ich mich entschieden, den Bereich Programmierung auszuprobieren. Ich habe von Grund auf HTML, CSS, TypeScript und Angular gelernt. Als Ergebnis habe ich meine eigene Rezeptplattform - misercook.com - erstellt. Dieser neue berufliche Weg ermöglicht es mir, meine Fähigkeiten in der Programmierung zu nutzen, um innovative Lösungen zu entwickeln und einen positiven Einfluss auf das Leben anderer zu haben."
   },
   "myWorks": {
     "myWorks": "Meine Projekte"
@@ -38,18 +40,21 @@
   "software-stack": {
     "services": "Meine Leistungen",
     "serv1": "Erstellen von Webanwendungen mit Angular, TypeScript, HTML, CSS",
-    "serv2": "Erstellen von Serveranwendungen mit Spring Boot",
+    "serv2": "Entwickeln von Serveranwendungen in Java mit dem Spring Boot Framework",
     "serv3": "Anwendungstests",
+    "serv4": "Deployment von Angular-Webanwendungen auf Linux-Server",
+    "serv5": "Erstellen von Layouts in GIMP",
     "title": "Software Stack",
     "stack1": "Angular",
     "stack2": "Java Script",
     "stack3": "HTML",
     "stack4": "CSS",
-    "stack5": "Type Script",
+    "stack5": "TypeScript",
     "stack6": "Spring Boot",
     "stack7": "Git",
     "stack8": "Java",
-    "stack9": "Jenkins"
+    "stack9": "Jenkins",
+    "stack10": "PostgreSQL"
   },
   "footer": {
     "imprint": "Impressum",

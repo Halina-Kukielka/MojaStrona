@@ -13,7 +13,9 @@ export class GalleryComponent {
         'assets/images/003.png',
         'assets/images/005.png',
         'assets/images/006.png',
-        'assets/images/007.png'
+        'assets/images/007.png',
+        'assets/images/009.png',
+        'assets/images/011.png'
     ];
 
     selectedIndex = 0;
@@ -24,7 +26,10 @@ export class GalleryComponent {
         'project.categories',
         'project.createRec',
         'project.shoppingList',
-        'project.portaladmin'
+        'project.portaladmin',
+        'project.chat',
+        'project.weatherApp'
+
     ];
 
     projectDescriptions: string[] = [
@@ -34,7 +39,9 @@ export class GalleryComponent {
         'project.desc4',
         'project.desc5',
         'project.desc6',
-        'project.desc7'
+        'project.desc7',
+        'project.desc8',
+        'project.desc9'
     ];
 
 

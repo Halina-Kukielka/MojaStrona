@@ -12,6 +12,8 @@ import { AboutComponent } from './about/about.component';
 import { SoftwareStackComponent } from './software-stack/software-stack.component';
 import { FooterComponent } from './footer/footer.component';
 import {WorksModule} from "./works/works.module";
+import { ThreeSceneComponent } from './three-scene/three-scene.component';
+import { RoomComponent } from './room/room.component';
 
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http, './assets/i18n/', '.json');
@@ -24,7 +26,9 @@ export function HttpLoaderFactory(http: HttpClient) {
     ContactComponent,
     AboutComponent,
     SoftwareStackComponent,
-    FooterComponent
+    FooterComponent,
+    ThreeSceneComponent,
+    RoomComponent
   ],
   imports: [
     BrowserModule,
