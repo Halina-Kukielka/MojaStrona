@@ -1,3 +1,5 @@
+<div class="project">
+    <h3>{{ projectNames[selectedIndex] | translate}}</h3>
 <div class="gallery-container">
     <button (click)="prevImage()">
         <i class="fa fa-arrow-left fa-2x"></i>
@@ -6,12 +8,10 @@
     <button (click)="nextImage()">
         <i class="fa fa-arrow-right fa-2x"></i>
     </button>
-
 </div>
-<div class="description">
-    <p class="link">
-        <a href="https://misercook.com">{{ projectNames[selectedIndex] | translate}}</a>
-    </p>
-    <div>{{ projectDescriptions[selectedIndex]| translate }}</div>
+<div class="aboutProject">
+    <p class="link">{{ 'project.link' | translate}}
+        <a [href]="projectLinks[selectedIndex]">{{ projectLinks[selectedIndex] | translate}}</a>
+    <div class="description">{{ projectDescriptions[selectedIndex]| translate }}</div>
 </div>
-
+</div>

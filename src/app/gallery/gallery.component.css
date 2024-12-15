@@ -1,3 +1,12 @@
+.project {
+    text-align: center;
+    margin-top: 30px;
+}
+
+h3 {
+    font-weight: bold;
+}
+
 .gallery-container {
     display: flex;
     align-items: center;
@@ -43,7 +52,7 @@ button:nth-of-type(2) {
     right: 10px;
 }
 
-.description {
+.aboutProject {
     padding-right: 5%;
     padding-left: 5%;
     text-align: justify;
@@ -56,7 +65,7 @@ button:nth-of-type(2) {
 
 a {
     text-decoration: none;
-    font-weight: bold;
+    font-weight: bolder;
     color: black;
 }
 
@@ -78,4 +87,9 @@ a:hover {
     button i {
         font-size: 20px;
     }
+
+    .aboutProject {
+        margin-top: 40px;
+    }
 }
+

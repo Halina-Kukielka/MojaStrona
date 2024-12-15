@@ -1,21 +1,10 @@
 {
   "project": {
-    "platform": "Misercook.com",
-    "desc1": "Misercook.com ist eine moderne, responsive kulinarische Plattform, die mit Blick auf den Komfort der Nutzer auf verschiedenen Geräten entworfen wurde. Die Seite wurde mit Technologien wie Angular, HTML5, CSS3 und TypeScript erstellt und sorgt für eine reibungslose Funktion auf Computern und mobilen Geräten. Dank des Einsatzes von Responsive Design, das auf Media Queries basiert, passt sich das Layout der Seite automatisch an die Bildschirmauflösung an und bietet optimale Navigation und Lesbarkeit auf Handys, Tablets und Laptops.",
-    "startPage": "Startseite",
-    "desc2": "Die Startseite von Misercook.com ist übersichtlich und intuitiv mit klaren Bereichen. Nutzer können schnell kürzlich hinzugefügte Rezepte durchstöbern, ihre Favoriten erkunden und das Rezept des Tages ansehen, das täglich hervorgehoben wird.",
-    "recDetail": "Rezeptdetails",
-    "desc3": "Im Recipe Detail-Ansicht werden alle Details zum ausgewählten Rezept angezeigt, darunter ein Foto des Gerichts, detaillierte Anweisungen und eine Zutatenliste, die leicht zur Einkaufsliste hinzugefügt werden kann.",
-    "categories": "Kategorien",
-    "desc4": "Die Rezepte wurden in verschiedene Kategorien unterteilt, um den Benutzern die Suche und das Durchsuchen zu erleichtern. Dadurch können Benutzer schnell interessante Gerichte in Kategorien wie Vorspeisen, Kindergerichte, Desserts oder Suppen finden.",
-    "createRec": "Rezept erstellen",
-    "desc5": "Nach dem Einloggen auf der Website besteht die Möglichkeit, neue Rezepte hinzuzufügen, eigene Kategorien zu erstellen und Kochtipps zu teilen.",
-    "shoppingList": "Einkaufsliste",
-    "desc6": "Die Einkaufsliste ist so gestaltet, dass Benutzer Produkte manuell hinzufügen können, aber es besteht auch die Möglichkeit, alle Zutaten aus einem Rezept direkt hinzuzufügen.",
-    "portaladmin": "Admin-Portal",
-    "desc7": "Das Einloggen in das Portal gewährt Zugang zu vielen weiteren Funktionen, wie dem Bearbeiten, Löschen oder Hinzufügen von Rezepten, Kategorien und Kochtipps",
-    "chat": "Misercook AI assistant",
-    "desc8": "KI-basierter Chat, der Nutzern hilft, indem er einfache Fragen beantwortet und schnell sowie bequem Unterstützung bietet."
+    "misercook": "Miser Cook",
+    "desc1": "Miser Cook ist eine moderne, responsive kulinarische Plattform, die mit Blick auf den Komfort der Nutzer auf verschiedenen Geräten entworfen wurde. Die Seite wurde mit Technologien wie Angular, HTML5, CSS3 und TypeScript erstellt und sorgt für eine reibungslose Funktion auf Computern und mobilen Geräten. Das Backend der Plattform basiert auf Spring Boot, was eine hohe Leistung und Skalierbarkeit der Anwendung gewährleistet. Für die Datenspeicherung wird die PostgreSQL-Datenbank genutzt, die Zuverlässigkeit, Sicherheit und effizientes Datenmanagement bietet. Darüber hinaus verfügt die Website über einen intelligenten Chat, der auf dem Rasa-Framework basiert und es den Nutzern ermöglicht, mithilfe künstlicher Intelligenz zu interagieren, personalisierte Unterstützung zu erhalten und Vorschläge zu bekommen. Dank des Einsatzes von Responsive Design, das auf Media Queries basiert, passt sich das Layout der Seite automatisch an die Bildschirmauflösung an und bietet optimale Navigation und Lesbarkeit auf Handys, Tablets und Laptops.",
+    "weatherApp": "Wetter App",
+    "desc2": "Eine einfache, aber zugleich funktionale Wetteranwendung, die im minimalistischen Stil gestaltet wurde und mit Angular 18, TypeScript, HTML und CSS entwickelt wurde. Die Anwendung legt großen Wert auf Klarheit und Responsivität und bietet eine klare und benutzerfreundliche Oberfläche, die ein optimales Benutzererlebnis gewährleistet. Echtzeit-Wetterdaten werden aus zuverlässigen APIs abgerufen, wobei wesentliche Informationen wie Temperatur, Luftfeuchtigkeit und Wettervorhersagen in einem intuitiven Layout präsentiert werden. Dank des responsiven Designs funktioniert die Anwendung reibungslos auf allen Geräten, von Desktops bis hin zu Smartphones, und bleibt unabhängig von der Bildschirmgröße übersichtlich und benutzerfreundlich. Diese Wetteranwendung ist ideal für Nutzer, die präzise Wetterinformationen in einem ästhetischen und auf das Wesentliche reduzierten Interface suchen.",
+    "link": "Projektseite:"
   },
   "header": {
     "softwareStack": "Software-Stack",
@@ -25,7 +14,7 @@
   },
   "about": {
     "header": "Über mich...",
-    "text": "Ich bin 36 Jahre alt und lebe seit über 10 Jahren in Deutschland. Mein beruflicher Weg führte mich in die Forschung zu Lebensmitteln für Kinder, medizinischen Lebensmitteln und Nahrungsergänzungsmitteln in einem Labor. Nach 10 Jahren in diesem Bereich habe ich beschlossen, meine berufliche Richtung zu ändern. Inspiriert von der Idee, große Anwendungen zu entwickeln, die Menschen begeistern und weltweit schnell erreichbar sind, habe ich mich entschieden, den Bereich Programmierung auszuprobieren. Ich habe von Grund auf HTML, CSS, TypeScript und Angular gelernt. Als Ergebnis habe ich meine eigene Rezeptplattform - misercook.com - erstellt. Dieser neue berufliche Weg ermöglicht es mir, meine Fähigkeiten in der Programmierung zu nutzen, um innovative Lösungen zu entwickeln und einen positiven Einfluss auf das Leben anderer zu haben."
+    "text": "Ich bin ausgebildete Lebensmitteltechnologin und habe zehn Jahre in diesem Beruf gearbeitet, hauptsächlich in der Forschung und Entwicklung von Lebensmitteln für Kinder, medizinischen Lebensmitteln und Nahrungsergänzungsmitteln. Obwohl ich in dieser Branche tätig war, hat mich das Thema Programmierung immer fasziniert. Aus diesem Grund habe ich mich entschieden, beruflich neue Wege zu gehen und mich intensiv mit der Entwicklung moderner Anwendungen zu beschäftigen.\n\nIch habe mir fundierte Kenntnisse in HTML, CSS, TypeScript und Angular angeeignet. Dieser berufliche Wechsel ermöglicht es mir, innovative Lösungen zu schaffen, die Menschen weltweit erreichen und einen positiven Einfluss haben können.\n\nIch lade Sie ein, sich meine Projekte anzusehen. Einige meiner Arbeiten für Unternehmen sind aus rechtlichen Gründen nicht öffentlich zugänglich, aber ich kann gerne private Projekte teilen."
   },
   "myWorks": {
     "myWorks": "Meine Projekte"

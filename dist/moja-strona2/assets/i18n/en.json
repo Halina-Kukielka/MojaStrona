@@ -1,21 +1,10 @@
 {
   "project":{
-    "platform": "Misercook.com",
-    "desc1": "Misercook.com is a modern, responsive culinary platform designed with the convenience of users on various devices in mind. The site was built using technologies such as Angular, HTML5, CSS3, and TypeScript, ensuring smooth operation on both computers and mobile devices. Thanks to the use of responsive design based on media queries, the layout of the site automatically adapts to the screen resolution, providing optimal navigation and readability on phones, tablets, and laptops.",
-    "startPage": "Homepage",
-    "desc2": "The homepage of Misercook.com is clear and intuitive, with distinct sections. Users can quickly browse recently added recipes, explore their favorites, and check out the recipe of the day, which is highlighted daily.",
-    "recDetail": "Recipe detail",
-    "desc3": "The Recipe Detail view displays all the details of the selected recipe, including a photo of the dish, detailed instructions, and an ingredient list that can be easily added to a shopping list.",
-    "categories": "Categories",
-    "desc4": "Recipes have been divided into various categories to facilitate user searching and browsing. This allows users to quickly find interesting dishes in categories such as appetizers, meals for kids, desserts, or soups.",
-    "createRec": "Create recipe",
-    "desc5": "After logging into the website, there is an ability to add new recipes, create custom categories, and share cooking tips.",
-    "shoppingList": "Shopping List",
-    "desc6": "The shopping list is designed in a way that allows users to add products manually, but there is also an option to directly add all ingredients from a recipe.",
-    "portaladmin": "Portal Admin",
-    "desc7": "Logging into the portal provides access to many additional features, such as editing, deleting, or adding recipes, categories, and cooking tips",
-    "chat": "Misercook AI assistant",
-    "desc8": "AI-based chat that assists users by answering simple questions and providing support quickly and conveniently."
+    "platform": "Miser Cook",
+    "desc1": "Miser Cook is a modern, responsive culinary platform designed with user convenience across various devices in mind. The site was built using technologies such as Angular, HTML5, CSS3, and TypeScript, ensuring smooth functionality on both computers and mobile devices. The platform's backend is powered by Spring Boot, providing high performance and scalability. PostgreSQL is used as the database, ensuring reliability, security, and efficient data management. Additionally, the website features an intelligent chat powered by the Rasa framework, allowing users to interact through artificial intelligence, receive personalized assistance, and suggestions. By leveraging Responsive Design based on Media Queries, the website layout automatically adapts to screen resolutions, offering optimal navigation and readability on smartphones, tablets, and laptops.",
+    "weatherApp": "Weather App",
+    "desc2": "A simple yet functional weather application designed in a minimalist style, developed using Angular 18, TypeScript, HTML, and CSS. The application emphasizes clarity and responsiveness, offering a clean and user-friendly interface to ensure an optimal user experience. Real-time weather data is fetched from reliable APIs, presenting key information such as temperature, humidity, and forecasts in an intuitive layout. Thanks to its responsive design, the application runs smoothly across all devices, from desktops to smartphones, maintaining clarity and usability regardless of screen size. This weather app is perfect for users seeking accurate weather updates in a visually pleasing and streamlined interface.",
+    "link": "Project website:"
   },
   "header": {
     "softwareStack": "Software-Stack",
@@ -25,7 +14,7 @@
   },
   "about": {
     "header": "About me...",
-    "text": "I am 36 years old and have been living in Germany for over 10 years. My professional journey led me to research food for children, medical foods, and dietary supplements in a laboratory. After 10 years in this field, I decided to change my career direction. Inspired by the idea of developing large applications that excite people and are quickly accessible worldwide, I chose to explore the field of programming. I learned HTML, CSS, TypeScript, and Angular from scratch. As a result, I created my own recipe platform, misercook.com. This new career path allows me to leverage my programming skills to develop innovative solutions and have a positive impact on the lives of others."
+    "text": "I am a trained food technologist and worked in this profession for ten years, primarily in the research and development of foods for children, medical foods, and dietary supplements. Although I was active in this industry, programming has always fascinated me. For this reason, I decided to take a new professional path and dive into the development of modern applications.\n\nI have acquired solid knowledge in HTML, CSS, TypeScript, and Angular. This career change allows me to create innovative solutions that can reach people worldwide and have a positive impact.\n\nI invite you to explore my projects. Some of my work for companies is not publicly accessible due to legal reasons, but I am happy to share private projects."
   },
   "myWorks": {
     "myWorks": "My works"
