@@ -14,6 +14,7 @@ import { FooterComponent } from './footer/footer.component';
 import {WorksModule} from "./works/works.module";
 import { ThreeSceneComponent } from './three-scene/three-scene.component';
 import { RoomComponent } from './room/room.component';
+import {LanguageService} from "./services/language.service";
 
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http, './assets/i18n/', '.json');
@@ -44,7 +45,7 @@ export function HttpLoaderFactory(http: HttpClient) {
     TranslateModule,
     WorksModule
   ],
-  providers: [],
+  providers: [LanguageService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

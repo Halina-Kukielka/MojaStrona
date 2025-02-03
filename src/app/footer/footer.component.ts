@@ -7,7 +7,7 @@ import {Component, ElementRef, OnInit, ViewChild} from '@angular/core';
 })
 export class FooterComponent implements OnInit {
   @ViewChild('imprintEnd') imprintEnd: ElementRef | undefined;
-  show = false
+  show = false;
 
   constructor() { }
 

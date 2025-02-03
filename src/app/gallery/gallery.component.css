@@ -1,11 +1,9 @@
 .project {
     text-align: center;
     margin-top: 30px;
+    padding: 20px;
 }
 
-h3 {
-    font-weight: bold;
-}
 
 .gallery-container {
     display: flex;
@@ -22,7 +20,7 @@ h3 {
     width: 100%;
     height: 100%;
     object-fit: contain;
-    max-width: 600px;
+    max-width: 700px;
 }
 
 button {
@@ -53,10 +51,9 @@ button:nth-of-type(2) {
 }
 
 .aboutProject {
-    padding-right: 5%;
-    padding-left: 5%;
+    padding: 20px;
     text-align: justify;
-    padding-bottom: 5%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06);
 }
 
 .link {
@@ -65,7 +62,6 @@ button:nth-of-type(2) {
 
 a {
     text-decoration: none;
-    font-weight: bolder;
     color: black;
 }
 
@@ -79,9 +75,9 @@ a:hover {
     }
 
     .galleryImage {
-        width: 100%;
+        width: 95%;
         height: auto;
-        max-width: 100%;
+        max-width: 95%;
     }
 
     button i {
@@ -90,6 +86,14 @@ a:hover {
 
     .aboutProject {
         margin-top: 40px;
+    }
+
+    button:nth-of-type(1) {
+        left: 5px;
+    }
+
+    button:nth-of-type(2) {
+        right: 5px;
     }
 }
 

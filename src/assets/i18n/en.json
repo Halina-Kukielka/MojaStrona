@@ -1,10 +1,12 @@
 {
   "project":{
     "platform": "Miser Cook",
-    "desc1": "Miser Cook is a modern, responsive culinary platform designed with user convenience across various devices in mind. The site was built using technologies such as Angular, HTML5, CSS3, and TypeScript, ensuring smooth functionality on both computers and mobile devices. The platform's backend is powered by Spring Boot, providing high performance and scalability. PostgreSQL is used as the database, ensuring reliability, security, and efficient data management. Additionally, the website features an intelligent chat powered by the Rasa framework, allowing users to interact through artificial intelligence, receive personalized assistance, and suggestions. By leveraging Responsive Design based on Media Queries, the website layout automatically adapts to screen resolutions, offering optimal navigation and readability on smartphones, tablets, and laptops.",
+    "desc1": "Misercook.com is a modern, responsive culinary platform designed with user convenience across various devices in mind. The site was built using technologies such as Angular, HTML5, CSS3, and TypeScript, ensuring smooth functionality on both computers and mobile devices. The platform's backend is powered by Spring Boot, providing high performance and scalability. PostgreSQL is used as the database, ensuring reliability, security, and efficient data management. Additionally, the website features an intelligent chat powered by the Rasa framework, allowing users to interact through artificial intelligence, receive personalized assistance, and suggestions. By leveraging Responsive Design based on Media Queries, the website layout automatically adapts to screen resolutions, offering optimal navigation and readability on smartphones, tablets, and laptops. The German version of the site is available at geizhalskoch.de.",
     "weatherApp": "Weather App",
-    "desc2": "A simple yet functional weather application designed in a minimalist style, developed using Angular 18, TypeScript, HTML, and CSS. The application emphasizes clarity and responsiveness, offering a clean and user-friendly interface to ensure an optimal user experience. Real-time weather data is fetched from reliable APIs, presenting key information such as temperature, humidity, and forecasts in an intuitive layout. Thanks to its responsive design, the application runs smoothly across all devices, from desktops to smartphones, maintaining clarity and usability regardless of screen size. This weather app is perfect for users seeking accurate weather updates in a visually pleasing and streamlined interface.",
-    "link": "Project website:"
+    "desc2": "A simple yet functional weather application designed in a minimalist style, built with Angular 18, TypeScript, HTML, and CSS. The application focuses on clarity and responsiveness, offering a clean and user-friendly interface that ensures an optimal user experience. Real-time weather data is retrieved from reliable APIs such as weatherapi.com, presenting essential information like temperature, humidity, and weather forecasts in an intuitive layout. Thanks to the responsive design, the application runs smoothly on all devices, from desktops to smartphones, maintaining clear and user-friendly functionality regardless of screen size. This weather application is ideal for users seeking accurate weather information in an aesthetically pleasing and streamlined interface.",
+    "link": "Project website:",
+    "architect": "Website for an architecture studio",
+    "desc3": "A simple yet functional portfolio page for an architecture firm, created in a minimalist style using Angular. The page utilizes Angular along with HTML, SCSS, and TypeScript to provide a clear and user-friendly interface. It allows for easy presentation of project photos in an elegant, organized layout. The responsive design ensures the page works seamlessly across all devices, from desktops to smartphones. This portfolio page is ideal for architects who want to showcase their work in a modern, professional, and aesthetically pleasing format."
   },
   "header": {
     "softwareStack": "Software-Stack",
@@ -14,7 +16,7 @@
   },
   "about": {
     "header": "About me...",
-    "text": "I am a trained food technologist and worked in this profession for ten years, primarily in the research and development of foods for children, medical foods, and dietary supplements. Although I was active in this industry, programming has always fascinated me. For this reason, I decided to take a new professional path and dive into the development of modern applications.\n\nI have acquired solid knowledge in HTML, CSS, TypeScript, and Angular. This career change allows me to create innovative solutions that can reach people worldwide and have a positive impact.\n\nI invite you to explore my projects. Some of my work for companies is not publicly accessible due to legal reasons, but I am happy to share private projects."
+    "text": "Programming has always been my passion, and I am particularly fascinated by creating modern and functional websites and applications. In my daily work, I use technologies such as HTML, CSS, JavaScript, TypeScript, Angular, as well as Java and Spring Boot to build efficient APIs. I focus on delivering solutions that are not only functional but also intuitive and user-friendly.\n\nArtificial intelligence is another area that inspires me greatly. I continue to grow in this field by working with technologies like RASA to develop intelligent conversational systems.\n\nI invite you to take a look at my projects. Some of my work for companies is not publicly available due to legal reasons, but I am happy to share my private projects."
   },
   "myWorks": {
     "myWorks": "My works"
@@ -28,22 +30,23 @@
   },
   "software-stack": {
     "services": "My services",
-    "serv1": "Creating web applications using Angular, TypeScript, HTML, and CSS",
+    "serv1": "Creating web applications using Angular, TypeScript, HTML, and CSS/SCSS",
     "serv2": "Developing server applications in Java using the Spring Boot framework",
     "serv3": "Application testing",
     "serv4": "Deployment of Angular web applications on Linux servers",
-    "serv5": "Creating layouts in GIMP.",
+    "serv5": "Creating layouts in GIMP and Figma",
     "title": "Software Stack",
-    "stack1": "Angular",
+    "stack1": "Type Script",
     "stack2": "Java Script",
     "stack3": "HTML",
-    "stack4": "CSS",
-    "stack5": "Type Script",
+    "stack4": "CSS/SCSS",
+    "stack5": "Angular",
     "stack6": "Spring Boot",
     "stack7": "Git",
     "stack8": "Java",
     "stack9": "Jenkins",
-    "stack10": "PostgreSQL"
+    "stack10": "PostgreSQL",
+    "stack11": "RASA"
   },
   "footer": {
     "imprint": "Imprint",

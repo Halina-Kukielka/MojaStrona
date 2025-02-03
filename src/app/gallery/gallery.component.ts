@@ -8,24 +8,28 @@ import {Component} from '@angular/core';
 export class GalleryComponent {
     images: string[] = [
         'assets/images/001.png',
-        'assets/images/002.png'
+        'assets/images/002.png',
+        'assets/images/003.png'
     ];
 
     selectedIndex = 0;
     projectNames: string[] = [
         'project.misercook',
-        'project.weatherApp'
+        'project.weatherApp',
+        'project.architect'
 
     ];
 
     projectDescriptions: string[] = [
         'project.desc1',
-        'project.desc2'
+        'project.desc2',
+        'project.desc3'
     ];
 
     projectLinks: string[] = [
-        'https://misercook.com', // Link do pierwszego projektu
-        'https://weather.kukielka.net' // Link do drugiego projektu
+        'https://misercook.com',
+        'https://weather.kukielka.net',
+        'https://architectsoffice.kukielka.net'
     ];
 
 
